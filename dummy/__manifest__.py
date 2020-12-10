@@ -9,6 +9,7 @@
 
     "author": "Ivan Yelizariev",
     "depends": [
+        "sale","purchase","ecommerce","account"
     ],
     "external_dependencies": {"python": [], "bin": []},
     "data": [
